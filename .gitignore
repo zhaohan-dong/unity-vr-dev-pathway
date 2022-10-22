@@ -4,11 +4,15 @@
 Temp/
 obj/
 UnityGenerated/
+Log/
+UserSettings/
 Library/
 Assets/AssetStoreTools*
 */Temp/
 */obj/
 */UnityGenerated/
+*/Log/
+*/UserSettings/
 */Library/
 */Assets/AssetStoreTools*
 
