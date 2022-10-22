@@ -29,6 +29,7 @@ ExportedObj/
 *.user
 *.unityproj
 *.booproj
+*.vsconfig
 
 # ============ #
 # OS generated #
